@@ -1,1 +1,1 @@
-Dashboard screenshots and exports go here. Commit it.
+Dashboard screenshots and exports go here.
